@@ -45,7 +45,7 @@ Eco3s 프로젝트의 로고입니다.
 
 ## Pallet
 
-![color pallet used for logo design](./pallet/pallet.png)
+<img src="pallet/pallet.png" width="600px" alt="color pallet used for logo design">
 
 초록색 계열의 고채도 색상 팔레트를 사용합니다.
 
