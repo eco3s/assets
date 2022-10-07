@@ -60,4 +60,4 @@ Eco3s 프로젝트의 로고입니다.
 [source/gradient](source/gradient) 폴더에 있는 SVG파일들은 현재 메쉬 문제로 인해 SVG에서 깨져서 보일 수 있습니다. \
 당분간은 [exported/png/gradient](exported/png/gradient) 폴더에 있는 출력 결과물을 사용해 주세요.
 
-현재 `exported` 폴더에 있는 출력물은 1024x1024` 비율밖에 없습니다.
+현재 `exported` 폴더에 있는 출력물은 `1024x1024` 비율밖에 없습니다.
