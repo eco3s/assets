@@ -8,7 +8,7 @@ Eco3s 프로젝트의 로고입니다.
 
 ## Preview
 
-![default, colored logo](exported/png/monotone/1024x1024/default.png | width=200) ![default, gradient-colored logo](exported/png/gradient/1024x1024/default.png | width=200)
+<img src="exported/png/monotone/1024x1024/default.png" width="200px" alt="default, colored logo"> <img src="exported/png/gradient/1024x1024/default.png" width="200px" alt="default, gradient-colored logo">
 
 ## Naming Conventions
 
