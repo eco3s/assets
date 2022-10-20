@@ -18,7 +18,7 @@
 
 ## Pallet
 
-[Logo](../logo/README.md)의 [팔레트 문단](../logo/README.md#Pallet) 문단을 참고하십시오.
+[Logo](../logo/README.md)의 [팔레트 문단](../logo/README.md#Pallet)을 참고하십시오.
 
 ## Etc
 
