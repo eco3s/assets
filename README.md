@@ -5,6 +5,7 @@
 ## 종류
 
 -   [Logo](logo/README.md)
+-   [Banner](banner/README.md)
 
 ## 라이선스
 
