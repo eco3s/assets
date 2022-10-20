@@ -1,6 +1,6 @@
 # Banner
 
-[Logo](../logo/README.md)와 동일한 팔레트와 고로를 사용하는 배너입니다.
+[Logo](../logo/README.md)와 동일한 팔레트와 로고를 사용하는 배너입니다.
 
 ## Preview
 
