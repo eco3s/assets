@@ -22,8 +22,8 @@
 
 ## Etc
 
-[source/gradient](source/gradient) 폴더에 있는 SVG파일들은 현재 메쉬 문제로 인해 SVG에서 깨져서 보일 수 있습니다. \
+[source](source) 폴더에 있는 SVG파일들은 현재 메쉬 문제로 인해 SVG에서 깨져서 보일 수 있습니다. \
 특히나 자주 바뀌는 정보인 version의 경우, 텍스트를 path로 렌더링하지 않았기에 특정 폰트가 없는 기기에선 글자가 보이지 않을 수 있습니다. \
-당분간은 [exported/png/gradient](exported/png/gradient) 폴더에 있는 출력 결과물을 사용해 주세요.
+당분간은 [exported/png](exported/png) 폴더에 있는 출력 결과물을 사용해 주세요.
 
 현재 `exported` 폴더에 있는 출력물은 `800x400` 비율밖에 없습니다.
